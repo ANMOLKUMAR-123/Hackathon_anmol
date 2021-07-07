@@ -12,6 +12,8 @@ Who is an advertiser?
 An advertiser is a person or company that pays for their product/event to be advertised online or offline. 
 
 
+
+
 About the data
 The sample data dump shared below is the ad performance for the dates between 1st August 2020 and 28th Feb 2021.
 
@@ -31,6 +33,8 @@ One Campaign can have one or more Ad Groups. One Ad group can have one or more a
 
 Data Description
 
+ 
+ 
  
 
 date: the date on which the ad was made live
@@ -52,9 +56,15 @@ conversions - Number of transactions received
 revenue: revenue generated from the ad
 
  
+ 
+ 
+ 
 
 Below is some context about the dataset:
 
+ 
+ 
+ 
  
 
 Raw metrics:
